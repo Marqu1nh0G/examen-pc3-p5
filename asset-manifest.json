@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/examen-pc3-p5/static/css/main.4349191a.css",
+    "main.js": "/examen-pc3-p5/static/js/main.97ecb3ee.js",
+    "static/js/453.7e924ae1.chunk.js": "/examen-pc3-p5/static/js/453.7e924ae1.chunk.js",
+    "index.html": "/examen-pc3-p5/index.html",
+    "main.4349191a.css.map": "/examen-pc3-p5/static/css/main.4349191a.css.map",
+    "main.97ecb3ee.js.map": "/examen-pc3-p5/static/js/main.97ecb3ee.js.map",
+    "453.7e924ae1.chunk.js.map": "/examen-pc3-p5/static/js/453.7e924ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4349191a.css",
+    "static/js/main.97ecb3ee.js"
+  ]
+}
